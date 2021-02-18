@@ -2,8 +2,5 @@ config {
   type: "view"
 }
 
-<<<<<<< HEAD
 -- select 7
-=======
--- select 4
->>>>>>> refs/remotes/origin/master
+
