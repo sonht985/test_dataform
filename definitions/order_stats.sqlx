@@ -2,4 +2,4 @@ config {
   type: "view"
 }
 
--- select 23
+-- select 22
