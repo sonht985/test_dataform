@@ -2,4 +2,5 @@ config {
   type: "view"
 }
 
--- select 30
+select
+  30 asdas
